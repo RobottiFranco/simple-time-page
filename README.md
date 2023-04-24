@@ -7,7 +7,7 @@
 * [LinkedIn](https://www.linkedin.com/in/franco-robotti-415786229/)
 
 ## Ver ejemplo en vivo 
-- [https://timmyanderspro.github.io/mi-portfolio/](https://timmyanderspro.github.io/mi-portfolio/)
+- [https://timmyanderspro.github.io/mi-portfolio/](https://robottifranco.github.io/simple-time-page/)
 
 ## Instalación 
 Este proyecto no necesita de instalación.
