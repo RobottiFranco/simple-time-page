@@ -6,12 +6,11 @@
 
 * [LinkedIn](https://www.linkedin.com/in/franco-robotti-415786229/)
 
-## Ver ejemplo en vivo 
+## See live example
 - [ejemplo en vivo](https://robottifranco.github.io/simple-time-page/)
 
-## Instalación 
-Este proyecto no necesita de instalación.
+## instalación
+This project does not need installation.
   
-## Contacto
-Si quieres puedes escribirme a Franco.robotti0@gmail.com.
-
+## Contact
+If you want you can write to me Franco.robotti0@gmail.com.
