@@ -1,7 +1,7 @@
-## Descripción
+## Description
  This is a frontend web page where HTML, CSS and JS are used in a basic way.
  
-## Autor ✒️
+## author ✒️
 **Franco Robotti**
 
 * [LinkedIn](https://www.linkedin.com/in/franco-robotti-415786229/)
